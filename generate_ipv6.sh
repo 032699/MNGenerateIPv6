@@ -22,12 +22,12 @@ DO_NET_CONF='/etc/network/interfaces.d/50-cloud-init.cfg'
 ETH_INTERFACE='ens3'
 IPV4_DOC_LINK='https://www.vultr.com/docs/add-secondary-ipv4-address'
 NETWORK_CONFIG='/etc/rc.local'
-NETWORK_BASE_TAG='2010'
+NETWORK_BASE_TAG='579'
 BOOTSTRAP='https://www.dropbox.com/s/raw/xu4c1twns4x7ove/anon-bootstrap.zip'
 BOOTSTRAP_ZIP='anon-bootstrap.zip'
 
 FETCHPARAMS='https://raw.githubusercontent.com/anonymousbitcoin/anon/master/anonutil/fetch-params.sh'
-count='1'
+count='6002'
 
 #end of required details
 #
